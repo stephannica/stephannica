@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>👋 Hi there! Welcome to my GitHub</h1>
 
-<!--
-**stephannica/stephannica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>My name is Stephanni, a student of 'Analysis and Systems Development' on Brazil and i'm on a journey to become a FullStack developer. I'm passionate about technology and i always eager for knowledge. Currently, i'm not working with development, but i'm actively seeking employment in this field. I'm determined to overcome the challenges on my path.</p>
 
-Here are some ideas to get you started:
+<p>Thank you for joining me on this journey!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h2>💻 Skills</h2>
+<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+<br><hr>
+
+<h2>🔎 Find me on</h2>
+<a href="https://www.linkedin.com/in/stephanni-cavalcante-759779186/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/r0cha__/" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+<br><hr>
+
+<h2>📊 GitHub Stats</h2>
+
+![Stephanni GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&layout=compact)
+
+
+
+
