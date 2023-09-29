@@ -22,8 +22,8 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![Stephanni GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&theme=dracula)](https://github.com/stephannica/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&layout=donut)](https://github.com/stephannica/github-readme-stats)
 
 
 
