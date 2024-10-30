@@ -22,8 +22,9 @@
 
 <h2>📊 GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&theme=dracula)](https://github.com/stephannica/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&layout=donut)](https://github.com/stephannica/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&show_icons=true&theme=synthwave)](https://github.com/stephannica/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&hide_progress=true&size_weight=0.5&count_weight=0.5)](https://github.com/stephannica/github-readme-stats)
+
 
 
 
