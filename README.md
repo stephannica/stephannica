@@ -13,6 +13,7 @@
 ### <a href="https://emoji.gg/emoji/7121-pinkkitty"><img src="https://cdn3.emoji.gg/emojis/7121-pinkkitty.gif" width="64px" height="64px" alt="PinkKitty"></a> A little more about me...  
 ```javascript
 const aboutMe = {
+  pronouns: "she" | "her",
   age: 25,
   country: "Brazil",
   loves: ["cats 🐱", "series 🎥", "cute & colorful things 🌈", "drinking water 💧"],
@@ -22,7 +23,7 @@ const aboutMe = {
 const journey = {
   currentFocus: "Frontend Development 💻",
   goal: "Become a Fullstack Developer 🌟",
-  learning: ["TypeScript", "React"],
+  learning: [TypeScript, React],
 };
 
 const skills = {
