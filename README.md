@@ -38,11 +38,3 @@ const connect = () => {
 connect();
 ```
 ---
-
-<hr>
-
-
-
-
-
-
