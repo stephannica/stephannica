@@ -1,4 +1,4 @@
-<h1>👋 Hi there! Welcome to my GitHub</h1>
+<h1>👋 Hi there! Welcome to my GitHub</h1> [![uwucat](https://cdn3.emoji.gg/emojis/7482-uwucat.png)](https://emoji.gg/emoji/7482-uwucat)
 
 <p>My name is Stephanni, a student of 'Analysis and Systems Development' on Brazil and i'm on a journey to become a FullStack developer. I'm passionate about technology and i always eager for knowledge. Currently, i'm not working with development, but i'm actively seeking employment in this field. I'm determined to overcome the challenges on my path.</p>
 
