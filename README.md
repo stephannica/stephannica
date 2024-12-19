@@ -26,8 +26,8 @@ const journey = {
 };
 
 const skills = {
-  frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"],
-  backend: ["Node.js"],
+  frontend: [HTML5, CSS3, JavaScript, TypeScript, React],
+  backend: [Node.js],
 };
 
 const connect = () => {
@@ -36,6 +36,8 @@ const connect = () => {
 
 connect();
 ```
+---
+
 <hr>
 
 
