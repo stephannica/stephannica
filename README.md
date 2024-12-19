@@ -1,29 +1,43 @@
-<h1>👋 Hi there! Welcome to my GitHub <a href="https://emoji.gg/emoji/7482-uwucat"><img src="https://cdn3.emoji.gg/emojis/7482-uwucat.png" width="64px" height="64px" alt="uwucat"></a> </h1>
+<h2><a href="https://emoji.gg/emoji/2653-kitty-paw"><img src="https://cdn3.emoji.gg/emojis/2653-kitty-paw.gif" width="28px" height="28px" alt="kitty_paw"></a> Hi, I'm Ste! <a href="https://emoji.gg/emoji/7482-uwucat"></h2>
+<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0OHF3MXl1ajlvaHByZnBsY252emZyYTNtdDBhNm01cDZlbWZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="230">
 
-<p>My name is Stephanni, a student of 'Analysis and Systems Development' on Brazil and i'm on a journey to become a FullStack developer. I'm passionate about technology and i always eager for knowledge. Currently, i'm not working with development, but i'm actively seeking employment in this field. I'm determined to overcome the challenges on my path.</p>
+<p>
+  <em>
+    Associate Degree in Systems Analysis and Development, Universidade Cruzeiro do Sul<br>- completed in December 2024.
+  </em>
+</p><br>
 
-<p>Thank you for joining me on this journey!</p>
+[![stephanni cavalcante](https://img.shields.io/badge/stephanni%20cavalcante-fff?style=flat&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/stephanni-cavalcante-759779186/)](https://www.linkedin.com/in/stephanni-cavalcante-759779186/)
+[![Follow me](https://img.shields.io/badge/Follow%20me-%E2%99%A5-green?style=social&logo=github&logoColor=000&link=https://github.com/stephannica)](https://github.com/stephannica)
 
+### <a href="https://emoji.gg/emoji/7121-pinkkitty"><img src="https://cdn3.emoji.gg/emojis/7121-pinkkitty.gif" width="64px" height="64px" alt="PinkKitty"></a> A little more about me...  
+```javascript
+const aboutMe = {
+  age: 25,
+  country: "Brazil",
+  loves: ["cats 🐱", "series 🎥", "cute & colorful things 🌈", "drinking water 💧"],
+  personality: "always learning",
+};
+
+const journey = {
+  currentFocus: "Frontend Development 💻",
+  goal: "Become a Fullstack Developer 🌟",
+  learning: ["TypeScript", "React"],
+};
+
+const skills = {
+  frontend: ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"],
+  backend: ["Node.js"],
+};
+
+const connect = () => {
+  console.log("✨ Let's build something amazing together!");
+};
+
+connect();
+```
 <hr>
 
-<h2>💻 Skills</h2>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-
-<br><hr>
-
-<h2>🔎 Find me on</h2>
-<a href="https://www.linkedin.com/in/stephanni-cavalcante-759779186/" target="_blank"><img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/r0cha__/" target="_blank"><img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
-<br><hr>
-
-<h2>📊 GitHub Stats</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephannica&show_icons=true&theme=synthwave)](https://github.com/stephannica/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&hide_progress=true&size_weight=0.5&count_weight=0.5)](https://github.com/stephannica/github-readme-stats)
 
 
 
