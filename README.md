@@ -39,6 +39,6 @@ connect();
 ```
 
 ![stephannica's Stats](https://github-readme-stats.vercel.app/api?username=stephannica&theme=dark&show_icons=true&hide_border=true&count_private=true&hide_rank=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=377" height="196px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephannica&theme=dark&show_icons=true&hide_border=true&layout=compact&card_width=376" height="196px">
 
 ---
