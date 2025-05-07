@@ -7,7 +7,7 @@
   </em>
 </p><br>
 
-![Status](./profile-3d-contrib)
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 [![stephanni cavalcante](https://img.shields.io/badge/stephanni%20cavalcante-fff?style=flat&logo=linkedin&logoColor=0A66C2&link=https://www.linkedin.com/in/stephanni-cavalcante-759779186/)](https://www.linkedin.com/in/stephanni-cavalcante-759779186/)
 [![Follow me](https://img.shields.io/badge/Follow%20me-%E2%99%A5-green?style=social&logo=github&logoColor=000&link=https://github.com/stephannica)](https://github.com/stephannica)
 
