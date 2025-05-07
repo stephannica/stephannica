@@ -8,13 +8,12 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
-  permissions:
-  contents: write
-
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
