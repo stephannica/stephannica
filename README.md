@@ -1,5 +1,4 @@
 <h2><a href="https://emoji.gg/emoji/2653-kitty-paw"><img src="https://cdn3.emoji.gg/emojis/2653-kitty-paw.gif" width="28px" height="28px" alt="kitty_paw"></a> Hi, I'm Ste! <a href="https://emoji.gg/emoji/7482-uwucat"></h2>
-<img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2h0OHF3MXl1ajlvaHByZnBsY252emZyYTNtdDBhNm01cDZlbWZwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" width="230">
 
 <p>
   <em>
