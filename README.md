@@ -11,7 +11,7 @@
 [![Follow me](https://img.shields.io/badge/Follow%20me-%E2%99%A5-green?style=social&logo=github&logoColor=000&link=https://github.com/stephannica)](https://github.com/stephannica)
 </div>
 
-<h2><a href="https://emoji.gg/emoji/7121-pinkkitty"><img src="https://cdn3.emoji.gg/emojis/7121-pinkkitty.gif" width="64px" height="64px" alt="PinkKitty"></a> My habilities</h2>
+<h2><a href="https://emoji.gg/emoji/7121-pinkkitty"><img src="https://cdn3.emoji.gg/emojis/7121-pinkkitty.gif" width="64px" height="64px" alt="PinkKitty"></a> My abilities</h2>
 
 <div align="center" >
   <a href="https://skillicons.dev">
